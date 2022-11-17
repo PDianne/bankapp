@@ -59,7 +59,7 @@
     "typescript": "~3.7.5"
   },
   "engines": {
-    "node": "14",
-    "npm": "6"
+    "node": "9",
+    "npm": "5"
   }
 }
